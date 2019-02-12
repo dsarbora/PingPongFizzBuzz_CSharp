@@ -2,40 +2,36 @@ using System;
 
 namespace PingPong
 {
-    class NumberProcessor
+    public class NumberProcessor
     {
         public int Input;
         public NumberProcessor()
         {
         }
 
-        public void SetInput(string input)
+        public void SetInput(int input)
         {
-            Input = int.Parse(input);
+            Input = input;
         }
 
-        public void DoTheThing()
+        public string DoTheThing(int input)
         {
-            for (int i=1; i<=Input; i++)
+             if (input %3 == 0 && input % 5 == 0)
             {
-                if (i %3 == 0 && i % 5 == 0)
-                {
-                    Console.WriteLine("PingPong");
-                }
-                else if(i%3==0)
-                {
-                    Console.WriteLine("Ping");
-                }
-                else if(i%5==0)
-                {
-                    Console.WriteLine("Pong");
-                }
-                else
-                {
-                    Console.WriteLine(i);
-                }
+                return "PingPong";
+            }
+            else if(input%3==0)
+            {
+                return "Ping";
+            }
+            else if(input%5==0)
+            {
+                return "Pong";
+            }
+            else
+            {
+                return input.ToString();
             }
         }
-
     }
 }

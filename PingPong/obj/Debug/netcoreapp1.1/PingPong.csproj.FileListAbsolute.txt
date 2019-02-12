@@ -1,0 +1,9 @@
+C:\Users\Dave\source\repos\PingPong.Solution\PingPong\bin\Debug\netcoreapp1.1\PingPong.deps.json
+C:\Users\Dave\source\repos\PingPong.Solution\PingPong\bin\Debug\netcoreapp1.1\PingPong.dll
+C:\Users\Dave\source\repos\PingPong.Solution\PingPong\bin\Debug\netcoreapp1.1\PingPong.pdb
+C:\Users\Dave\source\repos\PingPong.Solution\PingPong\obj\Debug\netcoreapp1.1\PingPong.csprojAssemblyReference.cache
+C:\Users\Dave\source\repos\PingPong.Solution\PingPong\obj\Debug\netcoreapp1.1\PingPong.csproj.CoreCompileInputs.cache
+C:\Users\Dave\source\repos\PingPong.Solution\PingPong\obj\Debug\netcoreapp1.1\PingPong.AssemblyInfoInputs.cache
+C:\Users\Dave\source\repos\PingPong.Solution\PingPong\obj\Debug\netcoreapp1.1\PingPong.AssemblyInfo.cs
+C:\Users\Dave\source\repos\PingPong.Solution\PingPong\obj\Debug\netcoreapp1.1\PingPong.dll
+C:\Users\Dave\source\repos\PingPong.Solution\PingPong\obj\Debug\netcoreapp1.1\PingPong.pdb
